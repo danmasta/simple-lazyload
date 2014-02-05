@@ -1,4 +1,4 @@
-lazyLoad: function lazyLoad() {
+function lazyLoad() {
   'use strict';
   
   var preload = window.preload || null;
